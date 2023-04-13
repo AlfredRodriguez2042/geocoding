@@ -44,3 +44,4 @@ Pasos:
 ## Georefencia
 
 la api de locacion me devuelve un valor similar pero no es el mismo
+implemente la arquitectura exagonal a la forma que la venia aplicando
